@@ -9,6 +9,7 @@ Video tech stack
    :maxdepth: 2
    
    docs/chapter1/index
+   docs/chapter2/index
 
 README
 =================================
