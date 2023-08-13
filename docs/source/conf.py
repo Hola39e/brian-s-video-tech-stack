@@ -6,8 +6,8 @@ project = 'Lumache'
 copyright = '2021, Graziella'
 author = 'Graziella'
 
-release = '1.0'
-version = '1.0.0'
+release = '0.1'
+version = '0.1.0'
 
 # -- General configuration
 
@@ -17,8 +17,6 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
-    'recommonmark',
-    'sphinx_markdown_tables',
 ]
 
 intersphinx_mapping = {
@@ -30,6 +28,7 @@ intersphinx_disabled_domains = ['std']
 templates_path = ['_templates']
 
 # -- Options for HTML output
+
 html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
