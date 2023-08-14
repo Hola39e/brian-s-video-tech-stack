@@ -10,6 +10,8 @@ Video tech stack
    
    docs/chapter1/index
    docs/chapter2/index
+   docs/chapter3/index
+   docs/chapter4/index
 
 README
 =================================
