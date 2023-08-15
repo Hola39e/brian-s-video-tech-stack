@@ -32,7 +32,7 @@ release = 'v1.0'
 # ones.
 # extensions = [
 # ]
-extensions = ['recommonmark', 'sphinx_markdown_tables']
+extensions = ['recommonmark', 'sphinx_markdown_tables', 'sphinx.ext.mathjax',]
 
 
 # Add any paths that contain templates here, relative to this directory.
