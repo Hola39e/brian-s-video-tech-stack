@@ -10,6 +10,7 @@ Brian's Video Tech Stack
    
    docs/chapter1/index
    docs/chapter2/index
+   docs/chapter5/index
    docs/chapter3/index
    docs/chapter4/index
 
