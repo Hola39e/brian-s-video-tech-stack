@@ -1,4 +1,4 @@
-High 
+High Efﬁciency Video Coding (HEVC) Algorithms and Architectures
 =================================
  
 .. toctree::
